@@ -1,2 +1,3 @@
-# goit-js-hw-04
-Optional
+# GoIT JavaScript - Homework #4.
+
+---
